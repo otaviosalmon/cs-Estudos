@@ -1,0 +1,14 @@
+C:\c#-estudos\exemplo-funcao\bin\Debug\net8.0\exemplo-funcao.exe
+C:\c#-estudos\exemplo-funcao\bin\Debug\net8.0\exemplo-funcao.deps.json
+C:\c#-estudos\exemplo-funcao\bin\Debug\net8.0\exemplo-funcao.runtimeconfig.json
+C:\c#-estudos\exemplo-funcao\bin\Debug\net8.0\exemplo-funcao.dll
+C:\c#-estudos\exemplo-funcao\bin\Debug\net8.0\exemplo-funcao.pdb
+C:\c#-estudos\exemplo-funcao\obj\Debug\net8.0\exemplo-funcao.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#-estudos\exemplo-funcao\obj\Debug\net8.0\exemplo-funcao.AssemblyInfoInputs.cache
+C:\c#-estudos\exemplo-funcao\obj\Debug\net8.0\exemplo-funcao.AssemblyInfo.cs
+C:\c#-estudos\exemplo-funcao\obj\Debug\net8.0\exemplo-funcao.csproj.CoreCompileInputs.cache
+C:\c#-estudos\exemplo-funcao\obj\Debug\net8.0\exemplo-funcao.dll
+C:\c#-estudos\exemplo-funcao\obj\Debug\net8.0\refint\exemplo-funcao.dll
+C:\c#-estudos\exemplo-funcao\obj\Debug\net8.0\exemplo-funcao.pdb
+C:\c#-estudos\exemplo-funcao\obj\Debug\net8.0\exemplo-funcao.genruntimeconfig.cache
+C:\c#-estudos\exemplo-funcao\obj\Debug\net8.0\ref\exemplo-funcao.dll

@@ -1,0 +1,14 @@
+C:\c#-estudos\ifs\bin\Debug\net8.0\ifs.exe
+C:\c#-estudos\ifs\bin\Debug\net8.0\ifs.deps.json
+C:\c#-estudos\ifs\bin\Debug\net8.0\ifs.runtimeconfig.json
+C:\c#-estudos\ifs\bin\Debug\net8.0\ifs.dll
+C:\c#-estudos\ifs\bin\Debug\net8.0\ifs.pdb
+C:\c#-estudos\ifs\obj\Debug\net8.0\ifs.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#-estudos\ifs\obj\Debug\net8.0\ifs.AssemblyInfoInputs.cache
+C:\c#-estudos\ifs\obj\Debug\net8.0\ifs.AssemblyInfo.cs
+C:\c#-estudos\ifs\obj\Debug\net8.0\ifs.csproj.CoreCompileInputs.cache
+C:\c#-estudos\ifs\obj\Debug\net8.0\ifs.dll
+C:\c#-estudos\ifs\obj\Debug\net8.0\refint\ifs.dll
+C:\c#-estudos\ifs\obj\Debug\net8.0\ifs.pdb
+C:\c#-estudos\ifs\obj\Debug\net8.0\ifs.genruntimeconfig.cache
+C:\c#-estudos\ifs\obj\Debug\net8.0\ref\ifs.dll

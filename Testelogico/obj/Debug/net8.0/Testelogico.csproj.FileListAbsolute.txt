@@ -1,0 +1,14 @@
+C:\c#-estudos\Testelogico\bin\Debug\net8.0\Testelogico.exe
+C:\c#-estudos\Testelogico\bin\Debug\net8.0\Testelogico.deps.json
+C:\c#-estudos\Testelogico\bin\Debug\net8.0\Testelogico.runtimeconfig.json
+C:\c#-estudos\Testelogico\bin\Debug\net8.0\Testelogico.dll
+C:\c#-estudos\Testelogico\bin\Debug\net8.0\Testelogico.pdb
+C:\c#-estudos\Testelogico\obj\Debug\net8.0\Testelogico.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#-estudos\Testelogico\obj\Debug\net8.0\Testelogico.AssemblyInfoInputs.cache
+C:\c#-estudos\Testelogico\obj\Debug\net8.0\Testelogico.AssemblyInfo.cs
+C:\c#-estudos\Testelogico\obj\Debug\net8.0\Testelogico.csproj.CoreCompileInputs.cache
+C:\c#-estudos\Testelogico\obj\Debug\net8.0\Testelogico.dll
+C:\c#-estudos\Testelogico\obj\Debug\net8.0\refint\Testelogico.dll
+C:\c#-estudos\Testelogico\obj\Debug\net8.0\Testelogico.pdb
+C:\c#-estudos\Testelogico\obj\Debug\net8.0\Testelogico.genruntimeconfig.cache
+C:\c#-estudos\Testelogico\obj\Debug\net8.0\ref\Testelogico.dll

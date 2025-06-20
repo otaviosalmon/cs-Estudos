@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\c#-estudos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28DA7DEF-CAC4-4A68-B750-BBC0A42A2FE7}|Testelogico\\Testelogico.csproj|c:\\c#-estudos\\testelogico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28DA7DEF-CAC4-4A68-B750-BBC0A42A2FE7}|Testelogico\\Testelogico.csproj|solutionrelative:testelogico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFF0F73-716F-4BE0-8243-FFB7C9045D05}|Funcoes-console\\Funcoes-console.csproj|c:\\c#-estudos\\funcoes-console\\funcoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFF0F73-716F-4BE0-8243-FFB7C9045D05}|Funcoes-console\\Funcoes-console.csproj|solutionrelative:funcoes-console\\funcoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97FFD862-1633-47AC-8F21-D2DADAC74436}|exemplo-funcao\\exemplo-funcao.csproj|c:\\c#-estudos\\exemplo-funcao\\exemplo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97FFD862-1633-47AC-8F21-D2DADAC74436}|exemplo-funcao\\exemplo-funcao.csproj|solutionrelative:exemplo-funcao\\exemplo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BCEFB51-FAD9-4F99-8104-01E82163E2A7}|c#-estudos\\c#-estudos.csproj|c:\\c#-estudos\\c#-estudos\\strings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BCEFB51-FAD9-4F99-8104-01E82163E2A7}|c#-estudos\\c#-estudos.csproj|solutionrelative:c#-estudos\\strings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 195,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Funcoes.cs",
+              "DocumentMoniker": "C:\\c#-estudos\\Funcoes-console\\Funcoes.cs",
+              "RelativeDocumentMoniker": "Funcoes-console\\Funcoes.cs",
+              "ToolTip": "C:\\c#-estudos\\Funcoes-console\\Funcoes.cs",
+              "RelativeToolTip": "Funcoes-console\\Funcoes.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAiwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T15:00:48.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "exemplo.cs",
+              "DocumentMoniker": "C:\\c#-estudos\\exemplo-funcao\\exemplo.cs",
+              "RelativeDocumentMoniker": "exemplo-funcao\\exemplo.cs",
+              "ToolTip": "C:\\c#-estudos\\exemplo-funcao\\exemplo.cs",
+              "RelativeToolTip": "exemplo-funcao\\exemplo.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAiwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T14:59:56.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Strings.cs",
+              "DocumentMoniker": "C:\\c#-estudos\\c#-estudos\\Strings.cs",
+              "RelativeDocumentMoniker": "c#-estudos\\Strings.cs",
+              "ToolTip": "C:\\c#-estudos\\c#-estudos\\Strings.cs",
+              "RelativeToolTip": "c#-estudos\\Strings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T14:59:51.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\c#-estudos\\Testelogico\\Program.cs",
+              "RelativeDocumentMoniker": "Testelogico\\Program.cs",
+              "ToolTip": "C:\\c#-estudos\\Testelogico\\Program.cs",
+              "RelativeToolTip": "Testelogico\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T14:54:03.243Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
