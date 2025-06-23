@@ -7,6 +7,11 @@ using BenchmarkDotNet.Running;
 
 namespace Strings
 {
+
+    //Este programa demonstra várias operações com strings
+    // como concatenação, comparação, formatação, manipulação de substrings, 
+    //e manipulação de arrays de strings. Ele também inclui exemplos de desempenho
+    // entre o uso de StringBuilder e concatenação direta de strings
     class Program
     {
         static void Main(string[] args)

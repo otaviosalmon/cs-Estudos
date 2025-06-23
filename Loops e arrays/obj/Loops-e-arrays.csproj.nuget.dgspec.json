@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\c#-estudos\\Loops e arrays\\Loops-e-arrays.csproj": {}
+    "C:\\cs-Estudos\\Loops e arrays\\Loops-e-arrays.csproj": {}
   },
   "projects": {
-    "C:\\c#-estudos\\Loops e arrays\\Loops-e-arrays.csproj": {
+    "C:\\cs-Estudos\\Loops e arrays\\Loops-e-arrays.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\c#-estudos\\Loops e arrays\\Loops-e-arrays.csproj",
+        "projectUniqueName": "C:\\cs-Estudos\\Loops e arrays\\Loops-e-arrays.csproj",
         "projectName": "Loops-e-arrays",
-        "projectPath": "C:\\c#-estudos\\Loops e arrays\\Loops-e-arrays.csproj",
-        "packagesPath": "C:\\Users\\nword\\.nuget\\packages\\",
-        "outputPath": "C:\\c#-estudos\\Loops e arrays\\obj\\",
+        "projectPath": "C:\\cs-Estudos\\Loops e arrays\\Loops-e-arrays.csproj",
+        "packagesPath": "C:\\Users\\Otavio\\.nuget\\packages\\",
+        "outputPath": "C:\\cs-Estudos\\Loops e arrays\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\nword\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Otavio\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

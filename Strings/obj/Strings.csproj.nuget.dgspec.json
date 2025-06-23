@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\c#-estudos\\Strings\\Strings.csproj": {}
+    "C:\\cs-Estudos\\Strings\\Strings.csproj": {}
   },
   "projects": {
-    "C:\\c#-estudos\\Strings\\Strings.csproj": {
+    "C:\\cs-Estudos\\Strings\\Strings.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\c#-estudos\\Strings\\Strings.csproj",
+        "projectUniqueName": "C:\\cs-Estudos\\Strings\\Strings.csproj",
         "projectName": "Strings",
-        "projectPath": "C:\\c#-estudos\\Strings\\Strings.csproj",
-        "packagesPath": "C:\\Users\\nword\\.nuget\\packages\\",
-        "outputPath": "C:\\c#-estudos\\Strings\\obj\\",
+        "projectPath": "C:\\cs-Estudos\\Strings\\Strings.csproj",
+        "packagesPath": "C:\\Users\\Otavio\\.nuget\\packages\\",
+        "outputPath": "C:\\cs-Estudos\\Strings\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\nword\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Otavio\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -71,7 +71,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

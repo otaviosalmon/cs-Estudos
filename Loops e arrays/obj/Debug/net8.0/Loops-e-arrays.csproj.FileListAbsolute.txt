@@ -1,0 +1,5 @@
+C:\cs-Estudos\Loops e arrays\obj\Debug\net8.0\Loops-e-arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\cs-Estudos\Loops e arrays\obj\Debug\net8.0\Loops-e-arrays.AssemblyInfoInputs.cache
+C:\cs-Estudos\Loops e arrays\obj\Debug\net8.0\Loops-e-arrays.AssemblyInfo.cs
+C:\cs-Estudos\Loops e arrays\obj\Debug\net8.0\Loops-e-arrays.csproj.CoreCompileInputs.cache
+C:\cs-Estudos\Loops e arrays\obj\Debug\net8.0\Loops-e-arrays.sourcelink.json

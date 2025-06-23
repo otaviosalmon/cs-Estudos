@@ -19,10 +19,8 @@ namespace OlaMundo
 
 
 
-            long
-                minhaIdadelong =
-                    20; // Declarando uma variável inteira chamada MinhaIdade e atribuindo o valor 20 a ela.
-
+            long minhaIdadelong = 20; // Declarando uma variável inteira chamada MinhaIdade e atribuindo o valor 20 
+            
             //float e usado em 32 bits, double e usado em 64 bits.
 
             float peso = 80.5f; // Declarando uma variável float chamada peso e atribuindo o valor 80.5 a ela.

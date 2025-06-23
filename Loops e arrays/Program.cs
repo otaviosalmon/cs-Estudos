@@ -4,7 +4,7 @@ using System.Diagnostics;
 namespace Loops_e_arrays
 {
 
-    // Demonstração de como fundionam loops e arrays em C#.
+    // Demonstração de como funcionam loops e arrays em C#.
     // Este exemplo inclui a comparação de dois métodos de ordenação, SlowSort e FastSort,
     // para ilustrar a diferença de desempenho entre eles. Alem disso, o código demonstra
     // como manipular strings, passar arrays por referência, lidar com referências nulas e

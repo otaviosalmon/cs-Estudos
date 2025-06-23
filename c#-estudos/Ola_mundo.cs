@@ -10,7 +10,7 @@ using System;
 
 namespace OlaMundo
 {
-// O namespace c__estudos é um espaço de nomes que agrupa classes relacionadas.
+// O namespace é um espaço de nomes que agrupa classes relacionadas.
 // Isso ajuda a organizar o código e evitar conflitos de nomes entre diferentes partes do programa.
 
 
