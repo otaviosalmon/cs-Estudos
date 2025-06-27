@@ -238,21 +238,21 @@ namespace Strings
         {
             string a1 = "a";
             string a2 = "a";
-            object a3 = (object)"a";
-            object a4 = (object)"a";
+            object a3 = (object)"a"; // a3 é um objeto que contém uma string "a"
+            object a4 = (object)"a"; // a4 é outro objeto que contém uma string "a", mas é uma referência diferente
 
             bool result;
 
             //a1 == a2
-            result = a1 == a2; // true 
-            result = a1.Equals(a2); // true
+            result = a1 == a2; // true // == é usado para comparar referências de objetos, mas no caso de strings, ele compara o conteúdo.
+            result = a1.Equals(a2); // true // equals é um método que compara o conteúdo das strings
             result = a1 == "a"; // true
             result = a4 == a3; // false, porque as referências não coincidem.
 
             a1 = null;
-            result = a1 == a2; // false
-            result = string.Equals(a1, a2); // false
-            result = a1.Equals(a2); // erro
+            result = a1 == a2; // false // a1 é null, então não pode ser igual a a2
+            result = string.Equals(a1, a2); // false // string.Equals é um método que compara o conteúdo das strings, mas a1 é null, então não pode ser igual a a2
+            result = a1.Equals(a2); // erro // a1 é null, então não pode chamar o método Equals
         }
     }
 }
