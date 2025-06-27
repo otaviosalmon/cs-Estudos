@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Loops-e-arrays")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+42949a28b24a1ff1b0c376c176b915860f256c83")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cbbbb57fe88240804b0602b2cd65de6bf97a62bd")]
 [assembly: System.Reflection.AssemblyProductAttribute("Loops-e-arrays")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Loops-e-arrays")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

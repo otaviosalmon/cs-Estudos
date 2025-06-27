@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strings", "Strings\Strings.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testelogico", "Testelogico\Testelogico.csproj", "{28DA7DEF-CAC4-4A68-B750-BBC0A42A2FE7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POO", "POO\POO.csproj", "{479992DB-961C-4C6A-8EEC-60C6CF8BC4C3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{28DA7DEF-CAC4-4A68-B750-BBC0A42A2FE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{28DA7DEF-CAC4-4A68-B750-BBC0A42A2FE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{28DA7DEF-CAC4-4A68-B750-BBC0A42A2FE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{479992DB-961C-4C6A-8EEC-60C6CF8BC4C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{479992DB-961C-4C6A-8EEC-60C6CF8BC4C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{479992DB-961C-4C6A-8EEC-60C6CF8BC4C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{479992DB-961C-4C6A-8EEC-60C6CF8BC4C3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

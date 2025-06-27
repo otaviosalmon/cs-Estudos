@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\cs-Estudos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{38B28CBB-7F91-459A-8B3D-7C02FB04B27A}|Strings\\Strings.csproj|c:\\cs-estudos\\strings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38B28CBB-7F91-459A-8B3D-7C02FB04B27A}|Strings\\Strings.csproj|solutionrelative:strings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{479992DB-961C-4C6A-8EEC-60C6CF8BC4C3}|POO\\POO.csproj|c:\\cs-estudos\\poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{479992DB-961C-4C6A-8EEC-60C6CF8BC4C3}|POO\\POO.csproj|solutionrelative:poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6CBDD77-C464-4C89-AFF5-A5E0E52AEF0C}|Loops e arrays\\Loops-e-arrays.csproj|c:\\cs-estudos\\loops e arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6CBDD77-C464-4C89-AFF5-A5E0E52AEF0C}|Loops e arrays\\Loops-e-arrays.csproj|solutionrelative:loops e arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{02A010EE-D0F9-4BEC-8267-22F81C47374D}|ifs\\ifs.csproj|c:\\cs-estudos\\ifs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02A010EE-D0F9-4BEC-8267-22F81C47374D}|ifs\\ifs.csproj|solutionrelative:ifs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{479992DB-961C-4C6A-8EEC-60C6CF8BC4C3}|POO\\POO.csproj|c:\\cs-estudos\\poo\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{479992DB-961C-4C6A-8EEC-60C6CF8BC4C3}|POO\\POO.csproj|solutionrelative:poo\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,44 +18,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 195,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\cs-Estudos\\Strings\\Program.cs",
-              "RelativeDocumentMoniker": "Strings\\Program.cs",
-              "ToolTip": "C:\\cs-Estudos\\Strings\\Program.cs",
-              "RelativeToolTip": "Strings\\Program.cs",
-              "ViewState": "AgIAAIoAAAAAAAAAAAA2wKIAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\cs-Estudos\\POO\\Pessoa.cs",
+              "RelativeDocumentMoniker": "POO\\Pessoa.cs",
+              "ToolTip": "C:\\cs-Estudos\\POO\\Pessoa.cs",
+              "RelativeToolTip": "POO\\Pessoa.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAA0wEAAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T16:45:26.09Z",
+              "WhenOpened": "2025-06-27T22:58:48.697Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\cs-Estudos\\Loops e arrays\\Program.cs",
-              "RelativeDocumentMoniker": "Loops e arrays\\Program.cs",
-              "ToolTip": "C:\\cs-Estudos\\Loops e arrays\\Program.cs",
-              "RelativeToolTip": "Loops e arrays\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\cs-Estudos\\POO\\Program.cs",
+              "RelativeDocumentMoniker": "POO\\Program.cs",
+              "ToolTip": "C:\\cs-Estudos\\POO\\Program.cs",
+              "RelativeToolTip": "POO\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T16:42:27.235Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\cs-Estudos\\ifs\\Program.cs",
-              "RelativeDocumentMoniker": "ifs\\Program.cs",
-              "ToolTip": "C:\\cs-Estudos\\ifs\\Program.cs",
-              "RelativeToolTip": "ifs\\Program.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAA6wEoAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T20:53:44.758Z"
+              "WhenOpened": "2025-06-27T22:58:19.21Z",
+              "EditorCaption": ""
             }
           ]
         }
