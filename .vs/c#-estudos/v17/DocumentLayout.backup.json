@@ -3,12 +3,52 @@
   "WorkspaceRootPath": "C:\\cs-Estudos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{479992DB-961C-4C6A-8EEC-60C6CF8BC4C3}|POO\\POO.csproj|c:\\cs-estudos\\poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{479992DB-961C-4C6A-8EEC-60C6CF8BC4C3}|POO\\POO.csproj|solutionrelative:poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EB8C1BA4-0BCC-44AA-BA3D-23741E2200AE}|Heran\u00E7a\\Heran\u00E7a.csproj|c:\\cs-estudos\\heran\u00E7a\\v2\\cabeca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB8C1BA4-0BCC-44AA-BA3D-23741E2200AE}|Heran\u00E7a\\Heran\u00E7a.csproj|solutionrelative:heran\u00E7a\\v2\\cabeca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{479992DB-961C-4C6A-8EEC-60C6CF8BC4C3}|POO\\POO.csproj|c:\\cs-estudos\\poo\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{479992DB-961C-4C6A-8EEC-60C6CF8BC4C3}|POO\\POO.csproj|solutionrelative:poo\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EB8C1BA4-0BCC-44AA-BA3D-23741E2200AE}|Heran\u00E7a\\Heran\u00E7a.csproj|c:\\cs-estudos\\heran\u00E7a\\v1\\humanoide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB8C1BA4-0BCC-44AA-BA3D-23741E2200AE}|Heran\u00E7a\\Heran\u00E7a.csproj|solutionrelative:heran\u00E7a\\v1\\humanoide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8C1BA4-0BCC-44AA-BA3D-23741E2200AE}|Heran\u00E7a\\Heran\u00E7a.csproj|c:\\cs-estudos\\heran\u00E7a\\v1\\robo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB8C1BA4-0BCC-44AA-BA3D-23741E2200AE}|Heran\u00E7a\\Heran\u00E7a.csproj|solutionrelative:heran\u00E7a\\v1\\robo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8C1BA4-0BCC-44AA-BA3D-23741E2200AE}|Heran\u00E7a\\Heran\u00E7a.csproj|c:\\cs-estudos\\heran\u00E7a\\v1\\cachorrorobo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB8C1BA4-0BCC-44AA-BA3D-23741E2200AE}|Heran\u00E7a\\Heran\u00E7a.csproj|solutionrelative:heran\u00E7a\\v1\\cachorrorobo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8C1BA4-0BCC-44AA-BA3D-23741E2200AE}|Heran\u00E7a\\Heran\u00E7a.csproj|c:\\cs-estudos\\heran\u00E7a\\v1\\carrorobo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB8C1BA4-0BCC-44AA-BA3D-23741E2200AE}|Heran\u00E7a\\Heran\u00E7a.csproj|solutionrelative:heran\u00E7a\\v1\\carrorobo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8C1BA4-0BCC-44AA-BA3D-23741E2200AE}|Heran\u00E7a\\Heran\u00E7a.csproj|c:\\cs-estudos\\heran\u00E7a\\v1\\humano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB8C1BA4-0BCC-44AA-BA3D-23741E2200AE}|Heran\u00E7a\\Heran\u00E7a.csproj|solutionrelative:heran\u00E7a\\v1\\humano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8C1BA4-0BCC-44AA-BA3D-23741E2200AE}|Heran\u00E7a\\Heran\u00E7a.csproj|c:\\cs-estudos\\heran\u00E7a\\v2\\robo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB8C1BA4-0BCC-44AA-BA3D-23741E2200AE}|Heran\u00E7a\\Heran\u00E7a.csproj|solutionrelative:heran\u00E7a\\v2\\robo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8C1BA4-0BCC-44AA-BA3D-23741E2200AE}|Heran\u00E7a\\Heran\u00E7a.csproj|c:\\cs-estudos\\heran\u00E7a\\v2\\pernas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB8C1BA4-0BCC-44AA-BA3D-23741E2200AE}|Heran\u00E7a\\Heran\u00E7a.csproj|solutionrelative:heran\u00E7a\\v2\\pernas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8C1BA4-0BCC-44AA-BA3D-23741E2200AE}|Heran\u00E7a\\Heran\u00E7a.csproj|c:\\cs-estudos\\heran\u00E7a\\v2\\humanoide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB8C1BA4-0BCC-44AA-BA3D-23741E2200AE}|Heran\u00E7a\\Heran\u00E7a.csproj|solutionrelative:heran\u00E7a\\v2\\humanoide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8C1BA4-0BCC-44AA-BA3D-23741E2200AE}|Heran\u00E7a\\Heran\u00E7a.csproj|c:\\cs-estudos\\heran\u00E7a\\v2\\humano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB8C1BA4-0BCC-44AA-BA3D-23741E2200AE}|Heran\u00E7a\\Heran\u00E7a.csproj|solutionrelative:heran\u00E7a\\v2\\humano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8C1BA4-0BCC-44AA-BA3D-23741E2200AE}|Heran\u00E7a\\Heran\u00E7a.csproj|c:\\cs-estudos\\heran\u00E7a\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB8C1BA4-0BCC-44AA-BA3D-23741E2200AE}|Heran\u00E7a\\Heran\u00E7a.csproj|solutionrelative:heran\u00E7a\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8C1BA4-0BCC-44AA-BA3D-23741E2200AE}|Heran\u00E7a\\Heran\u00E7a.csproj|c:\\cs-estudos\\heran\u00E7a\\v2\\cachorrorobo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB8C1BA4-0BCC-44AA-BA3D-23741E2200AE}|Heran\u00E7a\\Heran\u00E7a.csproj|solutionrelative:heran\u00E7a\\v2\\cachorrorobo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +58,162 @@
       "DocumentGroups": [
         {
           "DockedWidth": 195,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Pessoa.cs",
-              "DocumentMoniker": "C:\\cs-Estudos\\POO\\Pessoa.cs",
-              "RelativeDocumentMoniker": "POO\\Pessoa.cs",
-              "ToolTip": "C:\\cs-Estudos\\POO\\Pessoa.cs",
-              "RelativeToolTip": "POO\\Pessoa.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAA0wEAAAAAqAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Robo.cs",
+              "DocumentMoniker": "C:\\cs-Estudos\\Heran\u00E7a\\V1\\Robo.cs",
+              "RelativeDocumentMoniker": "Heran\u00E7a\\V1\\Robo.cs",
+              "ToolTip": "C:\\cs-Estudos\\Heran\u00E7a\\V1\\Robo.cs",
+              "RelativeToolTip": "Heran\u00E7a\\V1\\Robo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-27T22:58:48.697Z",
+              "WhenOpened": "2025-06-28T17:53:37.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Humanoide.cs",
+              "DocumentMoniker": "C:\\cs-Estudos\\Heran\u00E7a\\V1\\Humanoide.cs",
+              "RelativeDocumentMoniker": "Heran\u00E7a\\V1\\Humanoide.cs",
+              "ToolTip": "C:\\cs-Estudos\\Heran\u00E7a\\V1\\Humanoide.cs",
+              "RelativeToolTip": "Heran\u00E7a\\V1\\Humanoide.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T17:53:26.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CachorroRobo.cs",
+              "DocumentMoniker": "C:\\cs-Estudos\\Heran\u00E7a\\V1\\CachorroRobo.cs",
+              "RelativeDocumentMoniker": "Heran\u00E7a\\V1\\CachorroRobo.cs",
+              "ToolTip": "C:\\cs-Estudos\\Heran\u00E7a\\V1\\CachorroRobo.cs",
+              "RelativeToolTip": "Heran\u00E7a\\V1\\CachorroRobo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T17:53:05.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CarroRobo.cs",
+              "DocumentMoniker": "C:\\cs-Estudos\\Heran\u00E7a\\V1\\CarroRobo.cs",
+              "RelativeDocumentMoniker": "Heran\u00E7a\\V1\\CarroRobo.cs",
+              "ToolTip": "C:\\cs-Estudos\\Heran\u00E7a\\V1\\CarroRobo.cs",
+              "RelativeToolTip": "Heran\u00E7a\\V1\\CarroRobo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T17:52:29.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Robo.cs",
+              "DocumentMoniker": "C:\\cs-Estudos\\Heran\u00E7a\\V2\\Robo.cs",
+              "RelativeDocumentMoniker": "Heran\u00E7a\\V2\\Robo.cs",
+              "ToolTip": "C:\\cs-Estudos\\Heran\u00E7a\\V2\\Robo.cs",
+              "RelativeToolTip": "Heran\u00E7a\\V2\\Robo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T17:52:08.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Pernas.cs",
+              "DocumentMoniker": "C:\\cs-Estudos\\Heran\u00E7a\\V2\\Pernas.cs",
+              "RelativeDocumentMoniker": "Heran\u00E7a\\V2\\Pernas.cs",
+              "ToolTip": "C:\\cs-Estudos\\Heran\u00E7a\\V2\\Pernas.cs",
+              "RelativeToolTip": "Heran\u00E7a\\V2\\Pernas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T17:52:02.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Humanoide.cs",
+              "DocumentMoniker": "C:\\cs-Estudos\\Heran\u00E7a\\V2\\Humanoide.cs",
+              "RelativeDocumentMoniker": "Heran\u00E7a\\V2\\Humanoide.cs",
+              "ToolTip": "C:\\cs-Estudos\\Heran\u00E7a\\V2\\Humanoide.cs",
+              "RelativeToolTip": "Heran\u00E7a\\V2\\Humanoide.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T17:51:55.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Humano.cs",
+              "DocumentMoniker": "C:\\cs-Estudos\\Heran\u00E7a\\V1\\Humano.cs",
+              "RelativeDocumentMoniker": "Heran\u00E7a\\V1\\Humano.cs",
+              "ToolTip": "C:\\cs-Estudos\\Heran\u00E7a\\V1\\Humano.cs",
+              "RelativeToolTip": "Heran\u00E7a\\V1\\Humano.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T17:49:33.906Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\cs-Estudos\\POO\\Program.cs",
-              "RelativeDocumentMoniker": "POO\\Program.cs",
-              "ToolTip": "C:\\cs-Estudos\\POO\\Program.cs",
-              "RelativeToolTip": "POO\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Title": "Cabeca.cs",
+              "DocumentMoniker": "C:\\cs-Estudos\\Heran\u00E7a\\V2\\Cabeca.cs",
+              "RelativeDocumentMoniker": "Heran\u00E7a\\V2\\Cabeca.cs",
+              "ToolTip": "C:\\cs-Estudos\\Heran\u00E7a\\V2\\Cabeca.cs",
+              "RelativeToolTip": "Heran\u00E7a\\V2\\Cabeca.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-27T22:58:19.21Z",
+              "WhenOpened": "2025-06-28T17:51:32.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Humano.cs",
+              "DocumentMoniker": "C:\\cs-Estudos\\Heran\u00E7a\\V2\\Humano.cs",
+              "RelativeDocumentMoniker": "Heran\u00E7a\\V2\\Humano.cs",
+              "ToolTip": "C:\\cs-Estudos\\Heran\u00E7a\\V2\\Humano.cs",
+              "RelativeToolTip": "Heran\u00E7a\\V2\\Humano.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T17:51:43.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\cs-Estudos\\Heran\u00E7a\\Program.cs",
+              "RelativeDocumentMoniker": "Heran\u00E7a\\Program.cs",
+              "ToolTip": "C:\\cs-Estudos\\Heran\u00E7a\\Program.cs",
+              "RelativeToolTip": "Heran\u00E7a\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T17:50:56.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CachorroRobo.cs",
+              "DocumentMoniker": "C:\\cs-Estudos\\Heran\u00E7a\\V2\\CachorroRobo.cs",
+              "RelativeDocumentMoniker": "Heran\u00E7a\\V2\\CachorroRobo.cs",
+              "ToolTip": "C:\\cs-Estudos\\Heran\u00E7a\\V2\\CachorroRobo.cs",
+              "RelativeToolTip": "Heran\u00E7a\\V2\\CachorroRobo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T17:50:41.105Z",
               "EditorCaption": ""
             }
           ]

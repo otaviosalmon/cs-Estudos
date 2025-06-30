@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Testelogico")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cbbbb57fe88240804b0602b2cd65de6bf97a62bd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fcbc13085234886eeabafe017d2deec0fbe58b32")]
 [assembly: System.Reflection.AssemblyProductAttribute("Testelogico")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Testelogico")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
